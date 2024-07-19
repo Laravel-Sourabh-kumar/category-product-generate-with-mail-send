@@ -1,5 +1,5 @@
 <p>
-Pull Laravel/php project from git provider. <br>
+Pull Laravel  project from git provider. <br>
 Rename .env.example file to .envinside your project root and fill the database information. (windows wont let you do it, so you have to open your console cd your project root directory and run mv .env.example .env )  <br>
   <br>
 Run composer install  <br>
